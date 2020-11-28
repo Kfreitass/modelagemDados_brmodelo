@@ -1,0 +1,20 @@
+Regras do negócio
+
+-> 1.Um aluno só pode estar matriculado em um curso por vez
+-> 2.alunos possuem um código de identificação (RA)
+-> 3.Cursos são compostos por disciplinas
+-> 4.Cada disciplina terá no maximo 30 alunos por turma
+-> 5.As disciplinas podem ser obrigatórias ou optativas, dependendo do curso
+-> 6.As disciplinas pertencem a departamentos especificos
+-> 7.Cada disciplina possui um codigo de identificação
+-> 8.Alunos podem trancar matricula, não estando então matriculados em nenhuma disciplina no semestre
+-> 9.Em cada semestre, cada aluno pode se matricular em no maximo 9 disciplinas
+-> 10.O aluno só pode ser reprovado no maximo 3 vezes na mesma disciplina
+-> 11.A faculadade terá no maximo 3.000 alunos matriculados simultaneamente, em 10 cursos distintos
+-> 12.Entram 300 alunos novos por ano.
+-> 13.Existem 90 disciplinas no total disponiveis.
+-> 14.Um historico Escolar traz todas as disciplinas cursadas por um aluno, incluindo nota final, frequencia e periodo do curso realizado.
+-> 15.Professores podem ser cadastrados mesmo sem lecionar disciplinas
+-> 16.Existem 40 professores trabalhando na escola
+-> 17.Cada professor é vinculado a um departamento
+-> 18.Professores são identificados por um código de professor.

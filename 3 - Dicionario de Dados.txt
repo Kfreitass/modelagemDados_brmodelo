@@ -1,0 +1,6 @@
+
+ENTIDADES
+Coluna: Entidade, Relacionamento, Nome do Relacionamento, descrição
+
+ATRIBUTOS
+Coluna: Atributo, Tipo de Dados, Comprimento, Restrições, Descrição
